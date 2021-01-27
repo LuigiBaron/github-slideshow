@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Feed your soul, not your ego.
 Use the left arrow to go back!
